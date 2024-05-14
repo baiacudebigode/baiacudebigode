@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindos ao meu perfil como estudante alura 🫀
 
-<!--
-**baiacudebigode/baiacudebigode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Kemylly
 
-Here are some ideas to get you started:
+- estudo alura por uma escola pública
+- fiz alguns projetos no scratch e em progresso no JavaScript
+- irei utilizar esse espaço para compartilhar meus projetos como parte do curso alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Meu email de estudante é 📬
+
+00001115448377sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/CVOoi1PbEkMAAAAi/lilo-and-stitch-animation.gif)
